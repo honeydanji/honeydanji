@@ -10,5 +10,4 @@
  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
  </div>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeydanji&layout=donut-vertical)](https://github.com/honeydanji/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=honeydanji&show_icons=true&theme=transparent)
