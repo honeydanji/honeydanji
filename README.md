@@ -1,13 +1,40 @@
-<div align=center><h1>📚 STACKS</h1></div>
-<div align=center>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
- <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=javascript&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/Eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"> 
- <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
- </div>
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=honeydanji&show_icons=true&theme=transparent)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Jin%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+
+<br>
+
+<p align="center">
+    <Strong>☁️Portfolio List☁️</Strong><br><br>
+    <a href="https://pgmjun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    <a href="https://pgmjun.notion.site/pgmjun/33e788d9f4484f3f84701b5ff92b7f1e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <br>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br><br>
+<Strong>📧Email📧</Strong><br>aqaq3680@gmail.com<br>
+
+</p>
+
+<br>
+
+<p align="center">
+    반갑습니다👐 <br>
+</p>
+
+<br>
+
+<p align="center">
+    <Strong>⚒️Main Stack⚒️</Strong><br>
+</p>
+
+<p align="center" display="inline-block">
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+</p>
+
+<br>
+
+<div align="center">
+    
+![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=honeydanji&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwls3680)](https://solved.ac/tjdwls3680/)
+    
+</div>
