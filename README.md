@@ -48,5 +48,6 @@
     
 ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=honeydanji&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwls3680)](https://solved.ac/tjdwls3680/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeydanji&theme=dark&hide_langs_below=1)
     
 </div>
